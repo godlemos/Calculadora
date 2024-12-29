@@ -17,4 +17,8 @@
 - **🖼️ Recursos:** Imágenes personalizadas para fondos e íconos.
 
 
+![Captura de pantalla 2024-12-28 204317](https://github.com/user-attachments/assets/59625c69-8391-4403-90a5-5c2ef5b8f15e)
+![Captura de pantalla 2024-12-28 204202](https://github.com/user-attachments/assets/3fee8a36-a819-4d2d-80cc-45d4f050223e)
+
+
 
